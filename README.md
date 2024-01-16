@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI ,Dart,Flutter**
 
-- 💬 Ask me about **HTML,CSS,JS,Python**
+- 💬 Ask me about **HTML,CSS,JS,Flutter**
 
 - 📫 How to reach me **batoolshanzay786@gmail.com**
 
