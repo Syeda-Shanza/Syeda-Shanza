@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shanza zafar" target="blank"><img src="https://img.shields.io/twitter/follow/shanza zafar?logo=twitter&style=for-the-badge" alt="shanza zafar" /></a> </p>
 
-- 🌱 I’m currently learning **AI ,Dart,Flutter**
+- 🌱 I’m currently learning **AI ,Wordpress ,Flutter**
 
 - 💬 Ask me about **HTML,CSS,JS,Flutter**
 
